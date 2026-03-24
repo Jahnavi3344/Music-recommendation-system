@@ -1,2 +1,1 @@
-# Code-project-5
-Code project description 
+personalized music recommendation system that suggests tracks, albums, and playlists based on user preferences and listening history, enhancing the music discovery experience.
